@@ -81,3 +81,5 @@ DerivedDataCache/*
 
 # Lesson files that the program uses.
 *.lesson
+
+Windows/
